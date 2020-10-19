@@ -1,0 +1,14 @@
+footer{
+background-color:#2d2d30;
+color:#f5f5f5;
+padding:12px;
+}
+
+footer a{
+color:#f5f5f5;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
